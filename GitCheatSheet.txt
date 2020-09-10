@@ -19,6 +19,13 @@ git commit -m "Your Message"
 link a remote host to local
 git remote add origin <your hosted repo link here>
 
+push to origin
+git push -u origin master
+
+status
+git status
+
+
 
 
 
