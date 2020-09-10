@@ -1,0 +1,25 @@
+Command - 
+Git --version
+
+Configuration Command
+git config --global user.name "name here"
+git config --global user.email "email here"
+git config --list
+git config user.name
+
+initialize git repo command
+git init
+
+add to staging
+git add . {add all files to staging}
+
+add to commit
+git commit -m "Your Message"
+
+link a remote host to local
+git remote add origin <your hosted repo link here>
+
+
+
+
+
